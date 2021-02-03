@@ -3959,6 +3959,7 @@ input, select, textarea {
 		bottom: 0px;
 		width: 350px;
 		height: 300px;
+		z-index: 1001;
 		
 
 	}
