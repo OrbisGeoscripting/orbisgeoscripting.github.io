@@ -3959,6 +3959,8 @@ input, select, textarea {
 		bottom: 0px;
 		width: 700px;
 		height: 650px;
+		object-fit: scale-down;
+		max-width: 100%;
 		z-index: 1001;
 		
 
