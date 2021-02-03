@@ -3957,5 +3957,7 @@ input, select, textarea {
 		position: absolute;
 		right: 5px;
 		bottom: 5px;
+		width: 250px;
+		height: 200px;
 
 	}
