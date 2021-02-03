@@ -3955,8 +3955,10 @@ input, select, textarea {
 
 	#logo_empresa {
 		position: absolute;
-		right: 0px;
-		bottom: 0px;
+		left: 0px;
+		top: 0px;
+		width: 350px;
+		height: 300px;
 		
 
 	}
