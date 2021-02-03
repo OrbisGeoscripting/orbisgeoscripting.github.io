@@ -3953,10 +3953,10 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	#banner.logo_empresa {
+	#banner.major.logo_empresa {
 		position: absolute;
-		right: 0px;
-		bottom: 0px;
+		right: 500px;
+		bottom: 500px;
 		width: 350px;
 		height: 300px;
 		
