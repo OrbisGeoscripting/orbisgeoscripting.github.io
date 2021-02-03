@@ -3953,10 +3953,10 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	img.logo_empresa {
+	img.fields.logo_empresa {
 		position: absolute;
 		right: 0px;
-		bottom: -2px;
+		bottom: 0px;
 		width: 350px;
 		height: 300px;
 		z-index: 1001;
