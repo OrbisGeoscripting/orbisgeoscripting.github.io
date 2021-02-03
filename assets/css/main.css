@@ -3965,3 +3965,8 @@ input, select, textarea {
 		
 
 	}
+
+	#slogan {
+		font-size: 36;
+		text-align: left;
+	}
