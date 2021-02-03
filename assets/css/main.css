@@ -3002,7 +3002,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #C2D7ED /* #333856 */;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
