@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #296161; /* Cambio color corporativo verde oscuro -- #242943; */
+		background: #409999; /* Cambio color body -- #242943; */
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
