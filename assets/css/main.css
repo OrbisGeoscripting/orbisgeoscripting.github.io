@@ -3953,7 +3953,7 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	img.fields.logo_empresa {
+	img#contact.logo_empresa {
 		position: absolute;
 		left: 0px;
 		bottom: 0px;
