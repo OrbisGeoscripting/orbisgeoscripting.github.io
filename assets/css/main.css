@@ -3956,7 +3956,7 @@ input, select, textarea {
 	img.logo_empresa {
 		position: absolute;
 		right: 0px;
-		bottom: 0px;
+		bottom: -2px;
 		width: 350px;
 		height: 300px;
 		z-index: 1001;
