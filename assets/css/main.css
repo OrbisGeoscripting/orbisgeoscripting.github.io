@@ -3952,3 +3952,10 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+	#logo_empresa {
+		position: absolute;
+		right: 5px;
+		bottom: 5px;
+
+	}
