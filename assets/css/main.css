@@ -3953,7 +3953,7 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	#wrapper.logo_empresa {
+	#banner.logo_empresa {
 		position: absolute;
 		left: 0px;
 		top: 0px;
