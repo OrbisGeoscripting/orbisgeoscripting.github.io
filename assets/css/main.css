@@ -3955,8 +3955,8 @@ input, select, textarea {
 
 	#banner.logo_empresa {
 		position: absolute;
-		left: 0px;
-		top: 0px;
+		right: 0px;
+		bottom: 0px;
 		width: 350px;
 		height: 300px;
 		
