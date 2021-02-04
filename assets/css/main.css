@@ -3956,9 +3956,9 @@ input, select, textarea {
 	img#contact.logo_empresa {
 		position: absolute;
 		left: 0px;
-		bottom: 0px;
-		width: 600px;
-		height: 550px;
+		bottom: -3px;
+		width: 300px;
+		height: 230px;
 		object-fit: scale-down;
 		max-width: 100%;
 		z-index: 1001;
@@ -3966,7 +3966,10 @@ input, select, textarea {
 
 	}
 
-	#slogan {
-		font-size: 36;
-		text-align: left;
+	 p.slogan {
+		font-size: 1.5em;
+		position: absolute;
+		left: 50px;
+		border-bottom: solid 1px;
+		
 	}
