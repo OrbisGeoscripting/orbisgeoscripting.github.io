@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #409999; /* Cambio color body -- #242943; */
+		background: #3F9696; /* Cambio color body -- #242943;  #1687a7 #3F9696*/
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3591,7 +3591,8 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #2a2f4a/* #2a2f4a */;
+
 	}
 
 		#main > * {
