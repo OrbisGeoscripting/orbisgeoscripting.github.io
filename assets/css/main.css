@@ -3974,3 +3974,7 @@ input, select, textarea {
 		border-bottom: solid 1px;
 		
 	}
+
+	.videos { 
+		margin: 0 auto; 
+		width: 1200px;  }
