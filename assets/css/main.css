@@ -3978,13 +3978,13 @@ input, select, textarea {
 	.inner.videos {
   		position: absolute;
   		top: 0;
-  		bottom: 0;
+  		bottom: 0; 
   		width: 100%;
-  		height: 100%; 
+  		height: 100%;
   		overflow: hidden;
 	}
 
-	.inner.videos video {
+	.inner.videos  {
   /* Make video to at least 100% wide and tall */
   		min-width: 100%; 
   		min-height: 100%; 
