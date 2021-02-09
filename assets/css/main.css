@@ -3992,3 +3992,7 @@ input, select, textarea {
 			width: 60% !important; 
 		}
 
+	h2#convenios {
+
+		text-align: center !important;
+	}
